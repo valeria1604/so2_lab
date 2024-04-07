@@ -74,24 +74,3 @@ fi
 DATA=$(date -I)
 zip -r "bakap_${DATA}.zip" "$TARGET_DIR"
 echo "Katalog jest spakowany"
-
-
-
-
-
-
-
-		
-		
-
-
-
-
-
-
-
-	
-
-
-
-
